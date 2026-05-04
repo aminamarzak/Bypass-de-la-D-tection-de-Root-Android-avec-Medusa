@@ -54,7 +54,9 @@ Comprendre la structure de l'application via JADX.
 Prendre le contrôle total du flux d'exécution avec Frida.
 
 Contourner des protections de sécurité complexes (Java et fichiers système).
-les captures de ce lab :
+
+
+# les captures de ce lab :
 <img width="1232" height="785" alt="Screenshot 2026-04-27 201105" src="https://github.com/user-attachments/assets/98efb462-4e44-43a7-be5d-8887337364c2" />
 <img width="1503" height="730" alt="Screenshot 2026-04-29 165143" src="https://github.com/user-attachments/assets/e186013c-f7fa-4808-82ba-5b15587f39e4" />
 <img width="1033" height="235" alt="Screenshot 2026-04-29 165212" src="https://github.com/user-attachments/assets/f7c572f0-726d-46c5-831c-f6bd3bd087db" />
